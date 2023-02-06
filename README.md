@@ -1,9 +1,9 @@
 # OIBGRIP
 ## Data Science Internship from OASIS INFOBYTE
 
-######TASK 1
+    TASK 1
 
-**IRIS FLOWER CLASSIFICATION**
+    **IRIS FLOWER CLASSIFICATION**
 
 
 Iris flower has three species: setosa, versicolor, and virginica, which differs according to their
