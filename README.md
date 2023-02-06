@@ -1,10 +1,10 @@
 # OIBGRIP
 ## Data Science Internship from OASIS INFOBYTE
 
-#####TASK 1
+######TASK 1
 
 **IRIS FLOWER CLASSIFICATION**
-```
+
 
 Iris flower has three species: setosa, versicolor, and virginica, which differs according to their
 measurements. Now assume that you have the measurements of the iris flowers according to
@@ -16,4 +16,4 @@ download the same dataset from here for the task of iris flower classification w
 Learning. 
 
 DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/saurabh00007/iriscsv).
-```
+
