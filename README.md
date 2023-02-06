@@ -3,7 +3,7 @@
 
     TASK 1
 
-    **IRIS FLOWER CLASSIFICATION**
+    IRIS FLOWER CLASSIFICATION
 
 
     Iris flower has three species: setosa, versicolor, and virginica, which differs according to their
@@ -14,6 +14,5 @@
     Although the Scikit-learn library provides a dataset for iris flower classification, you can also
     download the same dataset from here for the task of iris flower classification with Machine
     Learning. 
-
-    DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/saurabh00007/iriscsv).
+  DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/saurabh00007/iriscsv).
 
